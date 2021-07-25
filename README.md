@@ -26,10 +26,11 @@
 
 ### 登录
 
-
+![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/login.png)
 
 ### 首页
 
+![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/home.png)
 
 
 
